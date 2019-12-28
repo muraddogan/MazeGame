@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\bin\Debug\LabirentProblemi.exe.config
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\bin\Debug\LabirentProblemi.exe
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\bin\Debug\LabirentProblemi.pdb
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\obj\Debug\LabirentProblemi.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\obj\Debug\LabirentProblemi.FormLabirent.resources
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\obj\Debug\LabirentProblemi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\obj\Debug\LabirentProblemi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\obj\Debug\LabirentProblemi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\obj\Debug\LabirentProblemi.exe
+C:\Users\Administrator\Desktop\LabirentProblemi\LabirentProblemi\obj\Debug\LabirentProblemi.pdb
